@@ -1,4 +1,4 @@
-![[Antique Key.png]]
+![Antique Key.png](https://github.com/StickerStoke/3d-model-challenge/blob/main/3D%20MODELER%20TEST/Files/Antique%20Key.png?raw=true)
 
 1. Using the provided image as a reference, create a 3D model using maya.
 	It is importan that the reproduction is proportional and respects real life proportions of the object.
