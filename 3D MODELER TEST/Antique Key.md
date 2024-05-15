@@ -15,5 +15,5 @@
 	3. key_gold_render_your_name.png
 4. Compress everything into a zip file called: your_name.zip
 
-_Note: Please replace your_name with your actual name, otherwise you will be disqualified
+_Note: Please replace your_name with your actual name, otherwise you will be disqualified_
 
