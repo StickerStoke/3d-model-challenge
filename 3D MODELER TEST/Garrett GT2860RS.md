@@ -6,9 +6,9 @@
 2. Using substance painter create 3D renders with the respective material finishes.
 
 3. Save your file results (<span style="color:darkgreen">.mb</span>, <span style="color:chartreuse">.spp</span>, <span style="color:crimson">.png</span>) with the following syntax:
-	1. <span style="color:cyan">exhaust</span>\_<span style="color:darkgreen">model</span>_<span style="color:magenta">your_name</span>.mb
-	2. <span style="color:cyan">exhaust</span>\_<span style="color:chartreuse">variant</span>_<span style="color:magenta">your_name</span>.spp
-	3. <span style="color:cyan">exhaust</span>\_<span style="color:crimson">render</span>_<span style="color:magenta">your_name</span>.png
+	1. <span style="color:cyan">turbo</span>\_<span style="color:darkgreen">model</span>_<span style="color:magenta">your_name</span>.mb
+	2. <span style="color:cyan">turbo</span>\_<span style="color:chartreuse">variant</span>_<span style="color:magenta">your_name</span>.spp
+	3. <span style="color:cyan">turbo</span>\_<span style="color:crimson">render</span>_<span style="color:magenta">your_name</span>.png
 
 4. Compress everything into a zip file called: <span style="color:magenta">your_name</span>.zip
 
