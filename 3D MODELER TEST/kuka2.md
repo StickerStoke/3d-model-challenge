@@ -1,13 +1,11 @@
-![Antique Key.png](https://github.com/StickerStoke/3d-model-challenge/blob/main/3D%20MODELER%20TEST/Files/Antique%20Key.png?raw=true)
+![KUKA Ready 2 Educate](https://github.com/StickerStoke/3d-model-challenge/blob/main/3D%20MODELER%20TEST/Files/kuka_2.webp?raw=true)
+[Reference Links](https://www.kuka.com/en-de/products/robot-systems/ready2_use/kuka-ready2_educate)
+
 
 1. Using the provided image as a reference, create a 3D model using maya.
-	It is importan that the reproduction is proportional and respects real life proportions of the object.
-2. Using substance painter create 3D renders with 3 different material finishes:
-	- Gold
-	- Silver
-	- Iron
-	- Rusted Iron (PLUS)
-	- Scratches (PLUS)
+	It is important that the reproduction is proportional and respects real life proportions of the object.
+
+2. Using substance painter create 3D renders with the respective material finishes.
    
 3. Save your file results (<span style="color:darkgreen">.mb</span>, <span style="color:chartreuse">.spp</span>, <span style="color:crimson">.png</span>) with the following syntax:
 	1. <span style="color:cyan">golden_key</span>\_<span style="color:darkgreen">model</span>_<span style="color:magenta">your_name</span>.mb
